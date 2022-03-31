@@ -1,4 +1,4 @@
-Seja bem-vindo!
+  👀 Seja bem-vindo! 
 
 - 🧑🏾 Sou Lehi Chaves
 - 🔨 Trabalho atualmente com manutenção industrial
