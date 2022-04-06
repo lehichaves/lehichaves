@@ -5,7 +5,6 @@
 - 📚 Estou estudando Desenvolvimento WEB (HTML, CSS, GIT)
 - 🚀 Em processo de Transição de Carreira
 - 📫 Contato: lehi_chaves_93@hotmail.com 📱 (41) 99670-2645
-- 😄 Pronomes: Ele/Dele
 
 <div>
   <a href="https://www.linkedin.com/in/lehi-chaves-235841a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
